@@ -1,0 +1,27 @@
+.auth-wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("/images/car2.jpg") center/cover no-repeat;
+}
+
+.auth-box {
+  max-width: 800px;
+  border-radius: 12px;
+}
+
+.auth-content {
+  padding: 30px;
+}
+
+.auth-image {
+  width: 95%;
+  height: 100%;
+  object-fit: cover;
+}
+
+button {
+  font-size: 18px;
+  font-weight: 500;
+}
